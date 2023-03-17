@@ -1,5 +1,4 @@
-#Exercício 01 - Solicitar a inserção de 5 números, ao final, imprimir os números pares, números ímpares e a média geral
-# desses números.
+#Exercício 01 - Solicitar a inserção de 5 números, ao final, imprimir os números pares, números ímpares e a média geral desses números.
 
 lista = []
 lista_pares = []
@@ -21,3 +20,4 @@ media = sum(lista) / len(lista)
 print(f'Média geral: {media:.2f}')
 print(f'Os numeros pares são: {lista_pares}')
 print(f'Os numeros impares são: {lista_impares}')
+
