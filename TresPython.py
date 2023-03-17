@@ -6,6 +6,7 @@
 notas = {}
 
 while True:
+
     nome_aluno = str(input('Digite o seu nome: '))
     notas[nome_aluno] = {'notas': []}
 
